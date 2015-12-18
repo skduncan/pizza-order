@@ -2,7 +2,7 @@
  // assignment #9 Pizza Order starting script
  require "../phpStuff/classfun.php";
  
- printDocHeadingJS("../styleSheets/asg9.css", "assignment #9", "../phpStuff/jquery.js", "../phpStuff/asg9.js");
+ printDocHeadingJS("../styleSheets/order-pizza.css", "pizza-order", "../phpStuff/jquery.js", "../phpStuff/pizza-order.js");
  print "<body><div class='content'>\n";
  print "<div class='content'> \n";
  print "<h2> Welcome to This-Pizza-Place-Pie-Shop </h2>\n";
